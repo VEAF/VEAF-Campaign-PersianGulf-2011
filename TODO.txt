@@ -1,0 +1,6 @@
+(x) Local weather -> pas de menu radio
+(x) Ka50 rouges pas armés
+(x) Point ZULU au sol pour le A10-C
+(x) Accélerer le 2d convoi RED
+(x) remettre la carte en mode "allies only"
+(x) pas de TGP pour les A10-C
