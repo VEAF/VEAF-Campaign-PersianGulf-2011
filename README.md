@@ -18,4 +18,4 @@ Un contingent composé de soldats et de matériel de ces quatre pays a pris pied
 
 Les Russes, qui ont pris connaissance de l’arrivée des forces de l’OTAN, ont décidé de mener une offensive éclair pour repousser à la mer les troupes alliées avant qu’elles ne soient vraiment en mesure de créer une tête de pont.
 
-Voir le document dans doc\mission1.docx
+Voir le document dans doc\mission1.md
