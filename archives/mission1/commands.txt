@@ -1,0 +1,7 @@
+##debug.rain
+##debug.thunder
+arty engage, cluster "thunder", shots 250, radius 30
+arty engage, cluster "thunder", shots 40, radius 15
+arty engage, cluster "thunder", shots 60, radius 15
+arty engage, cluster "rain", shots 60, radius 15
+arty engage, cluster "rain", shots 250, radius 30
