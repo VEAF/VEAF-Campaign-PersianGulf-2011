@@ -17,16 +17,74 @@ veafInterpreter.initialize()
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 -- PSEUDOATC
-pseudoATC=PSEUDOATC:New()
-pseudoATC:Start()
+--pseudoATC=PSEUDOATC:New()
+--pseudoATC:Start()
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 -- SCORING
-local Scoring = SCORING:New( "Scoring File" )
-Scoring:SetScaleDestroyScore( 15 )
-Scoring:SetScaleDestroyPenalty( 60 )
-Scoring:SetMessagesToCoalition()
+-- local Scoring = SCORING:New( "Scoring File" )
+-- Scoring:SetScaleDestroyScore( 15 )
+-- Scoring:SetScaleDestroyPenalty( 60 )
+-- Scoring:SetMessagesToCoalition()
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+-- ARTY
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+--BASE:TraceClass("ARTY")
+--BASE:TraceOn()
+
+--- Function executed when a mark has changed. This happens when text is entered or changed.
+local function arty_onEventMarkChange(eventPos, event)
+
+    -- Check if marker has a text and the veafNamedPoints.keyphrase keyphrase.
+    if event.text ~= nil and event.text:lower():find("##debug.rain") then
+        for _, name in pairs({"RAIN"}) do
+            name = SPAWN:New(name)
+                    :InitRandomizePosition(true, 25, nil)
+                    :Spawn()
+                    :GetName()
+
+            ARTY:New(GROUP:FindByName(name))
+            :SetRearmingGroup(GROUP:FindByName("RAIN logistic"))
+            :SetMaxFiringRange(20)
+            :SetMarkAssignmentsOn()
+            :AddToCluster({"rain", "all", "mortar"})
+            :SetRearmingGroupOnRoad()
+            :SetSmokeShells(50, SMOKECOLOR.Green)
+            :SetReportON()
+            :Start()
+        
+            MESSAGE:New("RAIN mortar battery is ready for instructions")
+                :ToCoalition( coalition.side.BLUE)
+        end
+        trigger.action.removeMark(event.idx)
+    elseif event.text ~= nil and event.text:lower():find("##debug.thunder") then
+        for _, name in pairs({"THUNDER1","THUNDER2"}) do
+            name = SPAWN:New(name)
+                   :InitRandomizePosition(true, 25, nil)
+                   :Spawn()
+                   :GetName()
+
+            ARTY:New(GROUP:FindByName(name))
+            :SetRearmingGroup(GROUP:FindByName("THUNDER logistic"))
+            :SetMaxFiringRange(20)
+            :SetMarkAssignmentsOn()
+            :AddToCluster({"thunder", "all", "m109"})
+            :SetRearmingGroupOnRoad()
+            :SetTacNukeShells(12)
+            :SetSmokeShells(50, SMOKECOLOR.Blue)
+            :SetReportON()
+            :Start()
+        
+            MESSAGE:New("THUNDER howitzer battery is ready for orders")
+                :ToCoalition( coalition.side.BLUE)
+        end
+        trigger.action.removeMark(event.idx)
+    end
+    return false
+end    
+
+veafMarkers.registerEventHandler(veafMarkers.MarkerChange, arty_onEventMarkChange)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 -- configure SECURITY

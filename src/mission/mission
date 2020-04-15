@@ -1119,7 +1119,7 @@ mission = {
                             }, -- end of [4]
                             [5] = {
                                 ["communication"] = true,
-                                ["frequency"] = 251.15,
+                                ["frequency"] = 305,
                                 ["groupId"] = 47,
                                 ["hidden"] = false,
                                 ["modulation"] = 0,
@@ -1345,7 +1345,7 @@ mission = {
                                             }, -- end of [1]
                                             [2] = {
                                                 ["channels"] = {
-                                                    [1] = 121.5,
+                                                    [1] = 124.6,
                                                     [2] = 120,
                                                     [3] = 120.1,
                                                     [4] = 120.2,
@@ -1403,7 +1403,7 @@ mission = {
                             }, -- end of [5]
                             [6] = {
                                 ["communication"] = true,
-                                ["frequency"] = 251.15,
+                                ["frequency"] = 243,
                                 ["groupId"] = 48,
                                 ["hidden"] = false,
                                 ["modulation"] = 0,
@@ -1633,7 +1633,7 @@ mission = {
                                             }, -- end of [1]
                                             [2] = {
                                                 ["channels"] = {
-                                                    [1] = 121.5,
+                                                    [1] = 124.6,
                                                     [2] = 120,
                                                     [3] = 120.1,
                                                     [4] = 120.2,
@@ -1769,7 +1769,7 @@ mission = {
                             }, -- end of [6]
                             [7] = {
                                 ["communication"] = true,
-                                ["frequency"] = 251.15,
+                                ["frequency"] = 243,
                                 ["groupId"] = 49,
                                 ["hidden"] = false,
                                 ["modulation"] = 0,
@@ -1999,7 +1999,7 @@ mission = {
                                             }, -- end of [1]
                                             [2] = {
                                                 ["channels"] = {
-                                                    [1] = 121.5,
+                                                    [1] = 124.6,
                                                     [2] = 120,
                                                     [3] = 120.1,
                                                     [4] = 120.2,
@@ -2135,7 +2135,7 @@ mission = {
                             }, -- end of [7]
                             [8] = {
                                 ["communication"] = true,
-                                ["frequency"] = 251.15,
+                                ["frequency"] = 243,
                                 ["groupId"] = 50,
                                 ["hidden"] = false,
                                 ["modulation"] = 0,
@@ -2291,7 +2291,7 @@ mission = {
                                             ["name"] = "Enfield11",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
-                                        ["heading"] = -1.3419501844855,
+                                        ["heading"] = -1.3419300833655,
                                         ["livery_id"] = "default",
                                         ["name"] = "DictKey_UnitName_323",
                                         ["onboard_num"] = "010",
@@ -2303,7 +2303,7 @@ mission = {
                                             ["pylons"] = {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.3419501844855,
+                                        ["psi"] = 1.3419300833655,
                                         ["Radio"] = {
                                             [1] = {
                                                 ["channels"] = {
@@ -2365,7 +2365,7 @@ mission = {
                                             }, -- end of [1]
                                             [2] = {
                                                 ["channels"] = {
-                                                    [1] = 121.5,
+                                                    [1] = 124.6,
                                                     [2] = 120,
                                                     [3] = 120.1,
                                                     [4] = 120.2,
@@ -2501,7 +2501,7 @@ mission = {
                             }, -- end of [8]
                             [9] = {
                                 ["communication"] = true,
-                                ["frequency"] = 251.15,
+                                ["frequency"] = 243,
                                 ["groupId"] = 51,
                                 ["hidden"] = false,
                                 ["modulation"] = 0,
@@ -2731,7 +2731,7 @@ mission = {
                                             }, -- end of [1]
                                             [2] = {
                                                 ["channels"] = {
-                                                    [1] = 121.5,
+                                                    [1] = 124.6,
                                                     [2] = 120,
                                                     [3] = 120.1,
                                                     [4] = 120.2,
@@ -2867,7 +2867,7 @@ mission = {
                             }, -- end of [9]
                             [10] = {
                                 ["communication"] = true,
-                                ["frequency"] = 251.15,
+                                ["frequency"] = 305,
                                 ["groupId"] = 52,
                                 ["hidden"] = false,
                                 ["modulation"] = 0,
@@ -3093,7 +3093,7 @@ mission = {
                                             }, -- end of [1]
                                             [2] = {
                                                 ["channels"] = {
-                                                    [1] = 121.5,
+                                                    [1] = 124.6,
                                                     [2] = 120,
                                                     [3] = 120.1,
                                                     [4] = 120.2,
@@ -3151,7 +3151,7 @@ mission = {
                             }, -- end of [10]
                             [11] = {
                                 ["communication"] = true,
-                                ["frequency"] = 251.15,
+                                ["frequency"] = 305,
                                 ["groupId"] = 53,
                                 ["hidden"] = false,
                                 ["modulation"] = 0,
@@ -3377,7 +3377,7 @@ mission = {
                                             }, -- end of [1]
                                             [2] = {
                                                 ["channels"] = {
-                                                    [1] = 121.5,
+                                                    [1] = 124.6,
                                                     [2] = 120,
                                                     [3] = 120.1,
                                                     [4] = 120.2,
@@ -3435,7 +3435,7 @@ mission = {
                             }, -- end of [11]
                             [12] = {
                                 ["communication"] = true,
-                                ["frequency"] = 251.15,
+                                ["frequency"] = 305,
                                 ["groupId"] = 54,
                                 ["hidden"] = false,
                                 ["modulation"] = 0,
@@ -3661,7 +3661,7 @@ mission = {
                                             }, -- end of [1]
                                             [2] = {
                                                 ["channels"] = {
-                                                    [1] = 121.5,
+                                                    [1] = 124.6,
                                                     [2] = 120,
                                                     [3] = 120.1,
                                                     [4] = 120.2,
@@ -3719,7 +3719,7 @@ mission = {
                             }, -- end of [12]
                             [13] = {
                                 ["communication"] = true,
-                                ["frequency"] = 251.15,
+                                ["frequency"] = 305,
                                 ["groupId"] = 55,
                                 ["hidden"] = false,
                                 ["modulation"] = 0,
@@ -3902,7 +3902,7 @@ mission = {
                                             }, -- end of ["Points"]
                                         }, -- end of ["dataCartridge"]
                                         ["hardpoint_racks"] = true,
-                                        ["heading"] = -1.3402568325406,
+                                        ["heading"] = -1.3401522229387,
                                         ["livery_id"] = "14.735 Corsairs - VEAF",
                                         ["name"] = "DictKey_UnitName_343",
                                         ["onboard_num"] = "010",
@@ -3915,7 +3915,7 @@ mission = {
                                             ["pylons"] = {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.3402568325406,
+                                        ["psi"] = 1.3401522229387,
                                         ["Radio"] = {
                                             [1] = {
                                                 ["channels"] = {
@@ -3965,7 +3965,7 @@ mission = {
                                             }, -- end of [1]
                                             [2] = {
                                                 ["channels"] = {
-                                                    [1] = 121.5,
+                                                    [1] = 124.6,
                                                     [2] = 120,
                                                     [3] = 120.1,
                                                     [4] = 120.2,
@@ -4023,7 +4023,7 @@ mission = {
                             }, -- end of [13]
                             [14] = {
                                 ["communication"] = true,
-                                ["frequency"] = 251.15,
+                                ["frequency"] = 305,
                                 ["groupId"] = 56,
                                 ["hidden"] = false,
                                 ["modulation"] = 0,
@@ -4206,7 +4206,7 @@ mission = {
                                             }, -- end of ["Points"]
                                         }, -- end of ["dataCartridge"]
                                         ["hardpoint_racks"] = true,
-                                        ["heading"] = -1.3441032028771,
+                                        ["heading"] = -1.3426421400925,
                                         ["livery_id"] = "14.735 Corsairs - VEAF",
                                         ["name"] = "DictKey_UnitName_347",
                                         ["onboard_num"] = "010",
@@ -4219,7 +4219,7 @@ mission = {
                                             ["pylons"] = {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.3441032028771,
+                                        ["psi"] = 1.3426421400925,
                                         ["Radio"] = {
                                             [1] = {
                                                 ["channels"] = {
@@ -4269,7 +4269,7 @@ mission = {
                                             }, -- end of [1]
                                             [2] = {
                                                 ["channels"] = {
-                                                    [1] = 121.5,
+                                                    [1] = 124.6,
                                                     [2] = 120,
                                                     [3] = 120.1,
                                                     [4] = 120.2,
@@ -4327,7 +4327,7 @@ mission = {
                             }, -- end of [14]
                             [15] = {
                                 ["communication"] = true,
-                                ["frequency"] = 251.15,
+                                ["frequency"] = 305,
                                 ["groupId"] = 57,
                                 ["hidden"] = false,
                                 ["modulation"] = 0,
@@ -4510,7 +4510,7 @@ mission = {
                                             }, -- end of ["Points"]
                                         }, -- end of ["dataCartridge"]
                                         ["hardpoint_racks"] = true,
-                                        ["heading"] = -1.3416405949324,
+                                        ["heading"] = -1.3421228326394,
                                         ["livery_id"] = "14.735 Corsairs - VEAF",
                                         ["name"] = "DictKey_UnitName_351",
                                         ["onboard_num"] = "010",
@@ -4523,7 +4523,7 @@ mission = {
                                             ["pylons"] = {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.3416405949324,
+                                        ["psi"] = 1.3421228326394,
                                         ["Radio"] = {
                                             [1] = {
                                                 ["channels"] = {
@@ -4573,7 +4573,7 @@ mission = {
                                             }, -- end of [1]
                                             [2] = {
                                                 ["channels"] = {
-                                                    [1] = 121.5,
+                                                    [1] = 124.6,
                                                     [2] = 120,
                                                     [3] = 120.1,
                                                     [4] = 120.2,
@@ -4631,7 +4631,7 @@ mission = {
                             }, -- end of [15]
                             [16] = {
                                 ["communication"] = true,
-                                ["frequency"] = 251.15,
+                                ["frequency"] = 305,
                                 ["groupId"] = 58,
                                 ["hidden"] = false,
                                 ["modulation"] = 0,
@@ -4814,7 +4814,7 @@ mission = {
                                             }, -- end of ["Points"]
                                         }, -- end of ["dataCartridge"]
                                         ["hardpoint_racks"] = true,
-                                        ["heading"] = -1.3418606843262,
+                                        ["heading"] = -1.341082873007,
                                         ["livery_id"] = "14.735 Corsairs - VEAF",
                                         ["name"] = "DictKey_UnitName_355",
                                         ["onboard_num"] = "010",
@@ -4827,7 +4827,7 @@ mission = {
                                             ["pylons"] = {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.3418606843262,
+                                        ["psi"] = 1.341082873007,
                                         ["Radio"] = {
                                             [1] = {
                                                 ["channels"] = {
@@ -4877,7 +4877,7 @@ mission = {
                                             }, -- end of [1]
                                             [2] = {
                                                 ["channels"] = {
-                                                    [1] = 121.5,
+                                                    [1] = 124.6,
                                                     [2] = 120,
                                                     [3] = 120.1,
                                                     [4] = 120.2,
@@ -6593,6 +6593,975 @@ mission = {
                                 ["x"] = -117247.77343655,
                                 ["y"] = 6338.5598983842,
                             }, -- end of [3]
+                            [4] = {
+                                ["groupId"] = 118,
+                                ["hidden"] = false,
+                                ["name"] = "DictKey_GroupName_826",
+                                ["route"] = {
+                                    ["points"] = {
+                                        [1] = {
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 55,
+                                            ["alt_type"] = "BARO",
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_828",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] = {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = {
+                                                    ["tasks"] = {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -115600.20365272,
+                                            ["y"] = 5611.4271415153,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["spans"] = {
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Ground Nothing",
+                                ["tasks"] = {
+                                }, -- end of ["tasks"]
+                                ["taskSelected"] = true,
+                                ["uncontrollable"] = false,
+                                ["units"] = {
+                                    [1] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_827",
+                                        ["playerCanDrive"] = true,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M 818",
+                                        ["unitId"] = 301,
+                                        ["x"] = -115600.20365272,
+                                        ["y"] = 5611.4271415153,
+                                    }, -- end of [1]
+                                    [2] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_909",
+                                        ["playerCanDrive"] = true,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M 818",
+                                        ["unitId"] = 357,
+                                        ["x"] = -115600.20365272,
+                                        ["y"] = 5718.9222439824,
+                                    }, -- end of [2]
+                                    [3] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_910",
+                                        ["playerCanDrive"] = true,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M 818",
+                                        ["unitId"] = 358,
+                                        ["x"] = -115597.96417142,
+                                        ["y"] = 5836.1217654222,
+                                    }, -- end of [3]
+                                    [4] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_911",
+                                        ["playerCanDrive"] = true,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M 818",
+                                        ["unitId"] = 359,
+                                        ["x"] = -115597.96417142,
+                                        ["y"] = 5940.6308928208,
+                                    }, -- end of [4]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = -115600.20365272,
+                                ["y"] = 5611.4271415153,
+                            }, -- end of [4]
+                            [5] = {
+                                ["groupId"] = 119,
+                                ["hidden"] = false,
+                                ["hiddenOnPlanner"] = true,
+                                ["lateActivation"] = true,
+                                ["name"] = "DictKey_GroupName_846",
+                                ["route"] = {
+                                    ["points"] = {
+                                        [1] = {
+                                            ["action"] = "Diamond",
+                                            ["alt"] = 128,
+                                            ["alt_type"] = "BARO",
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_853",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] = {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = {
+                                                    ["tasks"] = {
+                                                        [1] = {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 1,
+                                                            ["params"] = {
+                                                                ["action"] = {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] = {
+                                                                        ["groupId"] = 3,
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -114495.21456272,
+                                            ["y"] = -87.012496662973,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
+                                    ["spans"] = {
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Ground Nothing",
+                                ["tasks"] = {
+                                }, -- end of ["tasks"]
+                                ["taskSelected"] = true,
+                                ["uncontrollable"] = false,
+                                ["units"] = {
+                                    [1] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_847",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 302,
+                                        ["x"] = -114495.21456272,
+                                        ["y"] = -87.012496662973,
+                                    }, -- end of [1]
+                                    [2] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_887",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 335,
+                                        ["x"] = -114495.21456272,
+                                        ["y"] = -47.012496662973,
+                                    }, -- end of [2]
+                                    [3] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_888",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 336,
+                                        ["x"] = -114495.21456272,
+                                        ["y"] = -7.012496662973,
+                                    }, -- end of [3]
+                                    [4] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_889",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 337,
+                                        ["x"] = -114495.21456272,
+                                        ["y"] = 32.987503337027,
+                                    }, -- end of [4]
+                                    [5] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_890",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 338,
+                                        ["x"] = -114495.21456272,
+                                        ["y"] = 72.987503337027,
+                                    }, -- end of [5]
+                                    [6] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_891",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 339,
+                                        ["x"] = -114495.21456272,
+                                        ["y"] = 112.98750333703,
+                                    }, -- end of [6]
+                                    [7] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_892",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 340,
+                                        ["x"] = -114495.21456272,
+                                        ["y"] = 152.98750333703,
+                                    }, -- end of [7]
+                                    [8] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_893",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 341,
+                                        ["x"] = -114495.21456272,
+                                        ["y"] = 192.98750333703,
+                                    }, -- end of [8]
+                                    [9] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_894",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 342,
+                                        ["x"] = -114495.21456272,
+                                        ["y"] = 232.98750333703,
+                                    }, -- end of [9]
+                                    [10] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_895",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 343,
+                                        ["x"] = -114495.21456272,
+                                        ["y"] = 272.98750333703,
+                                    }, -- end of [10]
+                                    [11] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_896",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 344,
+                                        ["x"] = -114495.21456272,
+                                        ["y"] = 312.98750333703,
+                                    }, -- end of [11]
+                                    [12] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_897",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 345,
+                                        ["x"] = -114495.21456272,
+                                        ["y"] = 352.98750333703,
+                                    }, -- end of [12]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = -114495.21456272,
+                                ["y"] = -87.012496662973,
+                            }, -- end of [5]
+                            [6] = {
+                                ["groupId"] = 120,
+                                ["hidden"] = false,
+                                ["hiddenOnPlanner"] = true,
+                                ["lateActivation"] = true,
+                                ["name"] = "DictKey_GroupName_854",
+                                ["route"] = {
+                                    ["points"] = {
+                                        [1] = {
+                                            ["action"] = "Diamond",
+                                            ["alt"] = 130,
+                                            ["alt_type"] = "BARO",
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_861",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] = {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = {
+                                                    ["tasks"] = {
+                                                        [1] = {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 1,
+                                                            ["params"] = {
+                                                                ["action"] = {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] = {
+                                                                        ["groupId"] = 4,
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -114669.38174922,
+                                            ["y"] = -86.008896966338,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
+                                    ["spans"] = {
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Ground Nothing",
+                                ["tasks"] = {
+                                }, -- end of ["tasks"]
+                                ["taskSelected"] = true,
+                                ["uncontrollable"] = false,
+                                ["units"] = {
+                                    [1] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_855",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 308,
+                                        ["x"] = -114669.38174922,
+                                        ["y"] = -86.008896966338,
+                                    }, -- end of [1]
+                                    [2] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_898",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 346,
+                                        ["x"] = -114669.38174922,
+                                        ["y"] = -46.008896966338,
+                                    }, -- end of [2]
+                                    [3] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_899",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 347,
+                                        ["x"] = -114669.38174922,
+                                        ["y"] = -6.0088969663385,
+                                    }, -- end of [3]
+                                    [4] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_900",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 348,
+                                        ["x"] = -114669.38174922,
+                                        ["y"] = 33.991103033662,
+                                    }, -- end of [4]
+                                    [5] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_901",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 349,
+                                        ["x"] = -114669.38174922,
+                                        ["y"] = 73.991103033662,
+                                    }, -- end of [5]
+                                    [6] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_902",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 350,
+                                        ["x"] = -114669.38174922,
+                                        ["y"] = 113.99110303366,
+                                    }, -- end of [6]
+                                    [7] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_903",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 351,
+                                        ["x"] = -114669.38174922,
+                                        ["y"] = 153.99110303366,
+                                    }, -- end of [7]
+                                    [8] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_904",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 352,
+                                        ["x"] = -114669.38174922,
+                                        ["y"] = 193.99110303366,
+                                    }, -- end of [8]
+                                    [9] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_905",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 353,
+                                        ["x"] = -114669.38174922,
+                                        ["y"] = 233.99110303366,
+                                    }, -- end of [9]
+                                    [10] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_906",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 354,
+                                        ["x"] = -114669.38174922,
+                                        ["y"] = 273.99110303366,
+                                    }, -- end of [10]
+                                    [11] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_907",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 355,
+                                        ["x"] = -114669.38174922,
+                                        ["y"] = 313.99110303366,
+                                    }, -- end of [11]
+                                    [12] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_908",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 356,
+                                        ["x"] = -114669.87397533,
+                                        ["y"] = 348.64800818386,
+                                    }, -- end of [12]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = -114669.38174922,
+                                ["y"] = -86.008896966338,
+                            }, -- end of [6]
+                            [7] = {
+                                ["groupId"] = 121,
+                                ["hidden"] = false,
+                                ["hiddenOnPlanner"] = true,
+                                ["lateActivation"] = true,
+                                ["name"] = "DictKey_GroupName_912",
+                                ["route"] = {
+                                    ["points"] = {
+                                        [1] = {
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 411,
+                                            ["alt_type"] = "BARO",
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_914",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] = {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = {
+                                                    ["tasks"] = {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -112016.48003851,
+                                            ["y"] = -9570.3905481835,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
+                                    ["spans"] = {
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Ground Nothing",
+                                ["tasks"] = {
+                                }, -- end of ["tasks"]
+                                ["taskSelected"] = true,
+                                ["uncontrollable"] = false,
+                                ["units"] = {
+                                    [1] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_913",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 360,
+                                        ["x"] = -112016.48003851,
+                                        ["y"] = -9570.3905481835,
+                                    }, -- end of [1]
+                                    [2] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_915",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 361,
+                                        ["x"] = -112028.05527961,
+                                        ["y"] = -9569.8283855051,
+                                    }, -- end of [2]
+                                    [3] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_916",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 362,
+                                        ["x"] = -112039.49569584,
+                                        ["y"] = -9569.2563646936,
+                                    }, -- end of [3]
+                                    [4] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_917",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 363,
+                                        ["x"] = -112051.50813288,
+                                        ["y"] = -9569.2563646936,
+                                    }, -- end of [4]
+                                    [5] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_918",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 364,
+                                        ["x"] = -112063.52056993,
+                                        ["y"] = -9569.8283855051,
+                                    }, -- end of [5]
+                                    [6] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_919",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 365,
+                                        ["x"] = -112073.81694453,
+                                        ["y"] = -9568.1123230705,
+                                    }, -- end of [6]
+                                    [7] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_920",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 366,
+                                        ["x"] = -112085.25736076,
+                                        ["y"] = -9567.540302259,
+                                    }, -- end of [7]
+                                    [8] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_921",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 367,
+                                        ["x"] = -112010.32263445,
+                                        ["y"] = -9531.5029911327,
+                                    }, -- end of [8]
+                                    [9] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_922",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 368,
+                                        ["x"] = -112023.47911312,
+                                        ["y"] = -9528.642887075,
+                                    }, -- end of [9]
+                                    [10] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_923",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 369,
+                                        ["x"] = -112034.34750854,
+                                        ["y"] = -9527.498845452,
+                                    }, -- end of [10]
+                                    [11] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_924",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 370,
+                                        ["x"] = -112045.21590396,
+                                        ["y"] = -9525.7827830174,
+                                    }, -- end of [11]
+                                    [12] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_925",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 371,
+                                        ["x"] = -112056.08429938,
+                                        ["y"] = -9523.4946997713,
+                                    }, -- end of [12]
+                                    [13] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_926",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 372,
+                                        ["x"] = -112067.52471561,
+                                        ["y"] = -9523.4946997713,
+                                    }, -- end of [13]
+                                    [14] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_927",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 373,
+                                        ["x"] = -112012.6107177,
+                                        ["y"] = -9487.4573886449,
+                                    }, -- end of [14]
+                                    [15] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_928",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 374,
+                                        ["x"] = -112024.05113393,
+                                        ["y"] = -9486.8853678334,
+                                    }, -- end of [15]
+                                    [16] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_929",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 375,
+                                        ["x"] = -112036.06357097,
+                                        ["y"] = -9484.5972845873,
+                                    }, -- end of [16]
+                                    [17] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_930",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 376,
+                                        ["x"] = -112046.93196639,
+                                        ["y"] = -9484.0252637757,
+                                    }, -- end of [17]
+                                    [18] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_931",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 377,
+                                        ["x"] = -112059.51642425,
+                                        ["y"] = -9482.8812221527,
+                                    }, -- end of [18]
+                                    [19] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_932",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 378,
+                                        ["x"] = -112072.67290291,
+                                        ["y"] = -9481.1651597181,
+                                    }, -- end of [19]
+                                    [20] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_933",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 379,
+                                        ["x"] = -112011.46667608,
+                                        ["y"] = -9433.6874323612,
+                                    }, -- end of [20]
+                                    [21] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_934",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 380,
+                                        ["x"] = -112023.47911312,
+                                        ["y"] = -9435.9755156073,
+                                    }, -- end of [21]
+                                    [22] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_935",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 381,
+                                        ["x"] = -112034.34750854,
+                                        ["y"] = -9435.4034947958,
+                                    }, -- end of [22]
+                                    [23] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_936",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 382,
+                                        ["x"] = -112045.78792477,
+                                        ["y"] = -9431.9713699266,
+                                    }, -- end of [23]
+                                    [24] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_937",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 383,
+                                        ["x"] = -112056.08429938,
+                                        ["y"] = -9430.255307492,
+                                    }, -- end of [24]
+                                    [25] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_939",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 385,
+                                        ["x"] = -112072.37524534,
+                                        ["y"] = -9428.2731000035,
+                                    }, -- end of [25]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = -112016.48003851,
+                                ["y"] = -9570.3905481835,
+                            }, -- end of [7]
+                            [8] = {
+                                ["groupId"] = 122,
+                                ["hidden"] = false,
+                                ["name"] = "DictKey_GroupName_940",
+                                ["route"] = {
+                                    ["points"] = {
+                                        [1] = {
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 55,
+                                            ["alt_type"] = "BARO",
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_945",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] = {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = {
+                                                    ["tasks"] = {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -112111.00336388,
+                                            ["y"] = -10010.421235547,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["spans"] = {
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Ground Nothing",
+                                ["tasks"] = {
+                                }, -- end of ["tasks"]
+                                ["taskSelected"] = true,
+                                ["uncontrollable"] = false,
+                                ["units"] = {
+                                    [1] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_941",
+                                        ["playerCanDrive"] = true,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M 818",
+                                        ["unitId"] = 386,
+                                        ["x"] = -112111.00336388,
+                                        ["y"] = -10010.421235547,
+                                    }, -- end of [1]
+                                    [2] = {
+                                        ["heading"] = 4.7123889803847,
+                                        ["name"] = "DictKey_UnitName_946",
+                                        ["playerCanDrive"] = true,
+                                        ["skill"] = "Excellent",
+                                        ["transportable"] = {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M 818",
+                                        ["unitId"] = 390,
+                                        ["x"] = -112125.0653489,
+                                        ["y"] = -10001.472699627,
+                                    }, -- end of [2]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = -112111.00336388,
+                                ["y"] = -10010.421235547,
+                            }, -- end of [8]
                         }, -- end of ["group"]
                     }, -- end of ["vehicle"]
                 }, -- end of [2]
@@ -6715,7 +7684,7 @@ mission = {
                                             ["name"] = "Enfield11",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
-                                        ["heading"] = -1.328424086958,
+                                        ["heading"] = -1.3284670524754,
                                         ["livery_id"] = "Combat",
                                         ["name"] = "DictKey_UnitName_82",
                                         ["onboard_num"] = "050",
@@ -6727,7 +7696,7 @@ mission = {
                                             ["pylons"] = {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.328424086958,
+                                        ["psi"] = 1.3284670524754,
                                         ["Radio"] = {
                                             [1] = {
                                                 ["channels"] = {
@@ -6872,7 +7841,7 @@ mission = {
                                             ["name"] = "Enfield11",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
-                                        ["heading"] = -1.3205957790174,
+                                        ["heading"] = -1.320584621111,
                                         ["livery_id"] = "Combat",
                                         ["name"] = "DictKey_UnitName_85",
                                         ["onboard_num"] = "050",
@@ -6884,7 +7853,7 @@ mission = {
                                             ["pylons"] = {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.3205957790174,
+                                        ["psi"] = 1.320584621111,
                                         ["Radio"] = {
                                             [1] = {
                                                 ["channels"] = {
@@ -7029,7 +7998,7 @@ mission = {
                                             ["name"] = "Enfield11",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
-                                        ["heading"] = -1.3197042027138,
+                                        ["heading"] = -1.3196660583126,
                                         ["livery_id"] = "Combat",
                                         ["name"] = "DictKey_UnitName_97",
                                         ["onboard_num"] = "050",
@@ -7041,7 +8010,7 @@ mission = {
                                             ["pylons"] = {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.3197042027138,
+                                        ["psi"] = 1.3196660583126,
                                         ["Radio"] = {
                                             [1] = {
                                                 ["channels"] = {
@@ -7186,7 +8155,7 @@ mission = {
                                             ["name"] = "Enfield11",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
-                                        ["heading"] = -1.3178249990337,
+                                        ["heading"] = -1.3178068395923,
                                         ["livery_id"] = "Combat",
                                         ["name"] = "DictKey_UnitName_100",
                                         ["onboard_num"] = "050",
@@ -7198,7 +8167,7 @@ mission = {
                                             ["pylons"] = {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.3178249990337,
+                                        ["psi"] = 1.3178068395923,
                                         ["Radio"] = {
                                             [1] = {
                                                 ["channels"] = {
@@ -7343,7 +8312,7 @@ mission = {
                                             ["name"] = "Enfield11",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
-                                        ["heading"] = -1.325442429164,
+                                        ["heading"] = -1.3254143282571,
                                         ["livery_id"] = "Combat",
                                         ["name"] = "DictKey_UnitName_103",
                                         ["onboard_num"] = "050",
@@ -7355,7 +8324,7 @@ mission = {
                                             ["pylons"] = {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.325442429164,
+                                        ["psi"] = 1.3254143282571,
                                         ["Radio"] = {
                                             [1] = {
                                                 ["channels"] = {
@@ -7500,7 +8469,7 @@ mission = {
                                             ["name"] = "Enfield11",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
-                                        ["heading"] = -1.323549236557,
+                                        ["heading"] = -1.3235174778638,
                                         ["livery_id"] = "Combat",
                                         ["name"] = "DictKey_UnitName_106",
                                         ["onboard_num"] = "050",
@@ -7512,7 +8481,7 @@ mission = {
                                             ["pylons"] = {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.323549236557,
+                                        ["psi"] = 1.3235174778638,
                                         ["Radio"] = {
                                             [1] = {
                                                 ["channels"] = {
@@ -8224,7 +9193,7 @@ mission = {
                             }, -- end of [3]
                             [4] = {
                                 ["communication"] = true,
-                                ["frequency"] = 251.15,
+                                ["frequency"] = 124,
                                 ["groupId"] = 30,
                                 ["hidden"] = false,
                                 ["modulation"] = 0,
@@ -8407,7 +9376,7 @@ mission = {
                             }, -- end of [4]
                             [5] = {
                                 ["communication"] = true,
-                                ["frequency"] = 251.15,
+                                ["frequency"] = 127.5,
                                 ["groupId"] = 31,
                                 ["hidden"] = false,
                                 ["modulation"] = 0,
@@ -8518,8 +9487,8 @@ mission = {
                                                     [7] = 141,
                                                     [8] = 128,
                                                     [9] = 126,
-                                                    [10] = 133,
-                                                    [11] = 130,
+                                                    [10] = 124.6,
+                                                    [11] = 119.4,
                                                     [12] = 129,
                                                     [13] = 123,
                                                     [14] = 131,
@@ -8538,7 +9507,7 @@ mission = {
                                                     [1] = 21.5,
                                                     [2] = 25.7,
                                                     [3] = 27,
-                                                    [4] = 28,
+                                                    [4] = 28.5,
                                                     [5] = 30,
                                                     [6] = 32,
                                                     [7] = 40,
@@ -8564,7 +9533,7 @@ mission = {
                             }, -- end of [5]
                             [6] = {
                                 ["communication"] = true,
-                                ["frequency"] = 251.15,
+                                ["frequency"] = 127.5,
                                 ["groupId"] = 32,
                                 ["hidden"] = false,
                                 ["modulation"] = 0,
@@ -8675,8 +9644,8 @@ mission = {
                                                     [7] = 141,
                                                     [8] = 128,
                                                     [9] = 126,
-                                                    [10] = 133,
-                                                    [11] = 130,
+                                                    [10] = 124.6,
+                                                    [11] = 119.4,
                                                     [12] = 129,
                                                     [13] = 123,
                                                     [14] = 131,
@@ -8695,7 +9664,7 @@ mission = {
                                                     [1] = 21.5,
                                                     [2] = 25.7,
                                                     [3] = 27,
-                                                    [4] = 28,
+                                                    [4] = 28.5,
                                                     [5] = 30,
                                                     [6] = 32,
                                                     [7] = 40,
@@ -8721,7 +9690,7 @@ mission = {
                             }, -- end of [6]
                             [7] = {
                                 ["communication"] = true,
-                                ["frequency"] = 251.15,
+                                ["frequency"] = 127.5,
                                 ["groupId"] = 33,
                                 ["hidden"] = false,
                                 ["modulation"] = 0,
@@ -8832,8 +9801,8 @@ mission = {
                                                     [7] = 141,
                                                     [8] = 128,
                                                     [9] = 126,
-                                                    [10] = 133,
-                                                    [11] = 130,
+                                                    [10] = 124.6,
+                                                    [11] = 119.4,
                                                     [12] = 129,
                                                     [13] = 123,
                                                     [14] = 131,
@@ -8852,7 +9821,7 @@ mission = {
                                                     [1] = 21.5,
                                                     [2] = 25.7,
                                                     [3] = 27,
-                                                    [4] = 28,
+                                                    [4] = 28.5,
                                                     [5] = 30,
                                                     [6] = 32,
                                                     [7] = 40,
@@ -8878,7 +9847,7 @@ mission = {
                             }, -- end of [7]
                             [8] = {
                                 ["communication"] = true,
-                                ["frequency"] = 251.15,
+                                ["frequency"] = 127.5,
                                 ["groupId"] = 34,
                                 ["hidden"] = false,
                                 ["modulation"] = 0,
@@ -8989,8 +9958,8 @@ mission = {
                                                     [7] = 141,
                                                     [8] = 128,
                                                     [9] = 126,
-                                                    [10] = 133,
-                                                    [11] = 130,
+                                                    [10] = 124.6,
+                                                    [11] = 119.4,
                                                     [12] = 129,
                                                     [13] = 123,
                                                     [14] = 131,
@@ -9009,7 +9978,7 @@ mission = {
                                                     [1] = 21.5,
                                                     [2] = 25.7,
                                                     [3] = 27,
-                                                    [4] = 28,
+                                                    [4] = 28.5,
                                                     [5] = 30,
                                                     [6] = 32,
                                                     [7] = 40,
@@ -16101,7 +17070,7 @@ mission = {
             [8] = 47,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 69395,
+    ["currentKey"] = 89933,
     ["date"] = {
         ["Day"] = 23,
         ["Month"] = 5,
@@ -22408,11 +23377,11 @@ mission = {
         }, -- end of ["roles"]
     }, -- end of ["groundControl"]
     ["map"] = {
-        ["centerX"] = -117485.81074529,
-        ["centerY"] = 7731.0154911546,
-        ["zoom"] = 6734.7699683858,
+        ["centerX"] = -112646.07416402,
+        ["centerY"] = -8755.4055339033,
+        ["zoom"] = 9423.5181332448,
     }, -- end of ["map"]
-    ["maxDictId"] = 817,
+    ["maxDictId"] = 946,
     ["pictureFileNameB"] = {
     }, -- end of ["pictureFileNameB"]
     ["pictureFileNameN"] = {
@@ -22455,7 +23424,7 @@ mission = {
         ["total"] = 2,
     }, -- end of ["result"]
     ["sortie"] = "DictKey_sortie_5",
-    ["start_time"] = 21600,
+    ["start_time"] = 19800,
     ["theatre"] = "PersianGulf",
     ["trig"] = {
         ["actions"] = {
@@ -22529,6 +23498,22 @@ mission = {
                 ["y"] = -30692.970027027,
                 ["zoneId"] = 208,
             }, -- end of [2]
+            [3] = {
+                ["color"] = {
+                    [1] = 1,
+                    [2] = 1,
+                    [3] = 1,
+                    [4] = 0.15,
+                }, -- end of ["color"]
+                ["hidden"] = false,
+                ["name"] = "RAIN drop",
+                ["properties"] = {
+                }, -- end of ["properties"]
+                ["radius"] = 36.576,
+                ["x"] = -111072.80336748,
+                ["y"] = -13739.650138101,
+                ["zoneId"] = 312,
+            }, -- end of [3]
         }, -- end of ["zones"]
     }, -- end of ["triggers"]
     ["trigrules"] = {
@@ -22826,8 +23811,8 @@ mission = {
                 ["rotation"] = -0.14119397163551,
             }, -- end of [1]
         }, -- end of ["cyclones"]
-        ["dust_density"] = 3000,
-        ["enable_dust"] = true,
+        ["dust_density"] = 0,
+        ["enable_dust"] = false,
         ["enable_fog"] = false,
         ["fog"] = {
             ["thickness"] = 0,
